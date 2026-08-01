@@ -38,7 +38,13 @@ The dashboard therefore focuses on four areas:
 ---
 
 # 📊 Dashboard
+## Executive Overview
 
+![Executive Overview](images/executive-overview.png)
+
+## Expenditure Deep Dive
+
+![Expenditure Deep Dive](images/expenditure-deep-dive.png)
 The report consists of two main analytical pages.
 
 ## 01 — Executive Overview
